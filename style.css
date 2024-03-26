@@ -1,0 +1,56 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat';
+    font-weight: 350;
+    font-size: small;
+}
+.contenitore{
+    background-color: white;
+    margin: 10% 25% 5% 25%;
+    border-radius: 15px;
+    padding: 25px 20px;
+}
+img{
+    max-width: 100%; 
+    border-radius: 15px;
+}
+li{
+    padding: 3px;
+}
+h1, h2, h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.grammi, h2{
+    color: hsl(14, 45%, 36%);
+}
+h3{
+    color:hsl(332, 51%, 32%)
+}
+
+/*PREPARAZIONE*/
+.preparazione{
+    background-color: hsl(330, 100%, 98%);
+}
+
+.preparazione i{
+    font-weight: bold;
+}
+
+/*ISTRUZIONI*/
+.istruzioni i{
+    font-weight: bold;
+}
+
+/*TABELLA*/
+table{
+    width: 100%;
+}
+tr td{
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    padding: 10px;
+}
+table i{
+    font-weight: bold;
+}
